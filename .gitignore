@@ -1,0 +1,23 @@
+# Arquivos de Chave e Segredos
+*.json
+.env
+*.pem
+
+# Arquivos Python Cache/Config
+__pycache__/
+*.pyc
+.ipynb_checkpoints
+
+# Arquivos específicos do ambiente virtual (se usar)
+venv/
+env/
+.venv/
+
+# Arquivos de IDE/Editor
+.vscode/
+.idea/
+
+# Outros arquivos comuns
+*.log
+*.sqlite3
+*.db
